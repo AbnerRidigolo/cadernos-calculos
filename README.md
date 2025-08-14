@@ -67,17 +67,4 @@ Se quiser contribuir com melhorias — como correções, novas análises ou note
 3. Adicione suas melhorias.
 4. Abra um pull request com uma descrição clara das alterações.
 
----
-
-##  Licença
-
-Este projeto está disponível sob a [MIT License](LICENSE). Sinta-se livre para usar, modificar e compartilhar.
-
----
-
-##  Contato
-
-Se quiser entrar em contato:
-
-- **GitHub**: [@AbnerRidigolo](https://github.com/AbnerRidigolo)  
-- **E-mail**: (se quiser adicionar aqui)
+--
